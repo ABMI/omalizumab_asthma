@@ -1,0 +1,10 @@
+atlasId,atlasName,cohortId,name
+3606,[PCH] target cohort ver2 - OMZ,3606,PCH_target_cohort_ver2__OMZ
+3610,[PCH] comparator cohort ver2 (30) - OMZ,3610,PCH_comparator_cohort_ver2_30__OMZ
+2580,[PCH] asthma all cause hospitalization,2580,PCH_asthma_all_cause_hospitalization
+3262,[PCH] Severe asthma exacerbation,3262,PCH_Severe_asthma_exacerbation
+3263,[PCH] Asthma exacerbation,3263,PCH_Asthma_exacerbation
+3951,[PCH] IV CS prescription,3951,PCH_IV_CS_prescription
+3994,[PCH] asthma remission (final),3994,PCH_asthma_remission_final
+3996,[PCH] inflammatory remission (final),3996,PCH_inflammatory_remission_final
+3997,[PCH] clinical remission (final),3997,PCH_clinical_remission_final

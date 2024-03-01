@@ -1,0 +1,1491 @@
+covariate_id,covariate_name,covariate_analysis_id,analysis_id,database_id
+6003,age group:  30 -  34,3,1,CDMPv535_ABMI
+3003,age group:  15 -  19,3,1,CDMPv535_ABMI
+9003,age group:  45 -  49,3,1,CDMPv535_ABMI
+4003,age group:  20 -  24,3,1,CDMPv535_ABMI
+12003,age group:  60 -  64,3,1,CDMPv535_ABMI
+15003,age group:  75 -  79,3,1,CDMPv535_ABMI
+7003,age group:  35 -  39,3,1,CDMPv535_ABMI
+10003,age group:  50 -  54,3,1,CDMPv535_ABMI
+13003,age group:  65 -  69,3,1,CDMPv535_ABMI
+5003,age group:  25 -  29,3,1,CDMPv535_ABMI
+11003,age group:  55 -  59,3,1,CDMPv535_ABMI
+8003,age group:  40 -  44,3,1,CDMPv535_ABMI
+14003,age group:  70 -  74,3,1,CDMPv535_ABMI
+8532001,gender = FEMALE,1,1,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,1,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,1,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,1,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,1,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,1,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,1,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,1,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,1,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,1,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,1,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,1,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,1,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,1,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,1,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,1,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,1,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,1,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,1,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,1,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,1,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,1,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,1,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,1,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,1,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,1,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,1,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,1,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,1,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,1,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,1,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,1,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,1,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,1,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,1,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,1,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,1,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,1,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,1,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,1,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,1,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,1,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,1,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,1,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,1,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,1,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,1,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,1,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,1,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,1,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,1,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,1,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,1,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,1,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,1,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,1,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,1,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,1,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,1,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,1,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,1,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,1,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,1,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,1,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,1,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,1,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,1,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,1,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,1,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,1,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,1,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,1,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,1,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,1,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,1,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,1,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,1,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,1,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,1,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,1,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,1,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,1,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,1,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,1,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,1,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,1,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,1,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,1,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,1,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,1,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,1,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,1,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,1,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,1,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,1,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,1,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,1,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,1,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,1,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,1,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,1,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,1,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,1,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,1,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,1,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,1,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,1,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,1,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,1,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,1,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,1,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,1,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,1,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,1,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,1,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,1,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,1,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,1,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,1,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,1,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,1,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,1,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,1,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,1,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,1,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,1,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,1,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,1,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,1,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,1,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,1,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,1,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,1,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,1,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,1,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,1,CDMPv535_ABMI
+6003,age group:  30 -  34,3,2,CDMPv535_ABMI
+3003,age group:  15 -  19,3,2,CDMPv535_ABMI
+9003,age group:  45 -  49,3,2,CDMPv535_ABMI
+4003,age group:  20 -  24,3,2,CDMPv535_ABMI
+12003,age group:  60 -  64,3,2,CDMPv535_ABMI
+15003,age group:  75 -  79,3,2,CDMPv535_ABMI
+7003,age group:  35 -  39,3,2,CDMPv535_ABMI
+10003,age group:  50 -  54,3,2,CDMPv535_ABMI
+13003,age group:  65 -  69,3,2,CDMPv535_ABMI
+5003,age group:  25 -  29,3,2,CDMPv535_ABMI
+11003,age group:  55 -  59,3,2,CDMPv535_ABMI
+8003,age group:  40 -  44,3,2,CDMPv535_ABMI
+14003,age group:  70 -  74,3,2,CDMPv535_ABMI
+8532001,gender = FEMALE,1,2,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,2,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,2,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,2,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,2,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,2,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,2,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,2,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,2,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,2,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,2,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,2,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,2,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,2,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,2,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,2,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,2,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,2,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,2,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,2,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,2,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,2,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,2,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,2,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,2,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,2,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,2,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,2,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,2,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,2,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,2,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,2,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,2,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,2,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,2,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,2,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,2,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,2,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,2,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,2,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,2,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,2,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,2,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,2,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,2,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,2,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,2,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,2,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,2,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,2,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,2,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,2,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,2,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,2,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,2,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,2,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,2,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,2,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,2,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,2,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,2,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,2,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,2,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,2,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,2,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,2,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,2,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,2,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,2,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,2,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,2,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,2,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,2,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,2,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,2,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,2,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,2,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,2,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,2,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,2,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,2,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,2,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,2,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,2,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,2,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,2,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,2,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,2,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,2,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,2,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,2,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,2,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,2,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,2,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,2,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,2,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,2,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,2,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,2,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,2,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,2,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,2,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,2,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,2,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,2,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,2,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,2,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,2,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,2,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,2,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,2,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,2,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,2,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,2,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,2,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,2,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,2,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,2,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,2,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,2,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,2,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,2,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,2,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,2,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,2,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,2,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,2,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,2,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,2,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,2,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,2,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,2,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,2,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,2,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,2,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,2,CDMPv535_ABMI
+6003,age group:  30 -  34,3,3,CDMPv535_ABMI
+3003,age group:  15 -  19,3,3,CDMPv535_ABMI
+9003,age group:  45 -  49,3,3,CDMPv535_ABMI
+4003,age group:  20 -  24,3,3,CDMPv535_ABMI
+12003,age group:  60 -  64,3,3,CDMPv535_ABMI
+15003,age group:  75 -  79,3,3,CDMPv535_ABMI
+7003,age group:  35 -  39,3,3,CDMPv535_ABMI
+10003,age group:  50 -  54,3,3,CDMPv535_ABMI
+13003,age group:  65 -  69,3,3,CDMPv535_ABMI
+5003,age group:  25 -  29,3,3,CDMPv535_ABMI
+11003,age group:  55 -  59,3,3,CDMPv535_ABMI
+8003,age group:  40 -  44,3,3,CDMPv535_ABMI
+14003,age group:  70 -  74,3,3,CDMPv535_ABMI
+8532001,gender = FEMALE,1,3,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,3,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,3,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,3,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,3,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,3,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,3,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,3,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,3,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,3,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,3,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,3,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,3,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,3,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,3,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,3,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,3,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,3,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,3,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,3,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,3,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,3,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,3,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,3,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,3,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,3,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,3,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,3,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,3,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,3,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,3,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,3,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,3,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,3,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,3,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,3,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,3,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,3,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,3,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,3,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,3,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,3,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,3,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,3,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,3,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,3,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,3,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,3,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,3,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,3,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,3,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,3,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,3,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,3,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,3,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,3,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,3,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,3,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,3,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,3,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,3,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,3,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,3,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,3,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,3,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,3,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,3,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,3,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,3,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,3,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,3,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,3,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,3,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,3,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,3,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,3,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,3,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,3,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,3,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,3,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,3,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,3,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,3,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,3,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,3,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,3,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,3,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,3,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,3,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,3,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,3,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,3,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,3,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,3,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,3,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,3,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,3,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,3,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,3,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,3,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,3,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,3,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,3,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,3,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,3,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,3,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,3,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,3,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,3,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,3,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,3,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,3,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,3,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,3,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,3,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,3,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,3,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,3,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,3,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,3,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,3,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,3,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,3,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,3,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,3,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,3,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,3,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,3,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,3,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,3,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,3,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,3,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,3,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,3,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,3,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,3,CDMPv535_ABMI
+6003,age group:  30 -  34,3,4,CDMPv535_ABMI
+3003,age group:  15 -  19,3,4,CDMPv535_ABMI
+9003,age group:  45 -  49,3,4,CDMPv535_ABMI
+4003,age group:  20 -  24,3,4,CDMPv535_ABMI
+12003,age group:  60 -  64,3,4,CDMPv535_ABMI
+15003,age group:  75 -  79,3,4,CDMPv535_ABMI
+7003,age group:  35 -  39,3,4,CDMPv535_ABMI
+10003,age group:  50 -  54,3,4,CDMPv535_ABMI
+13003,age group:  65 -  69,3,4,CDMPv535_ABMI
+5003,age group:  25 -  29,3,4,CDMPv535_ABMI
+11003,age group:  55 -  59,3,4,CDMPv535_ABMI
+8003,age group:  40 -  44,3,4,CDMPv535_ABMI
+14003,age group:  70 -  74,3,4,CDMPv535_ABMI
+8532001,gender = FEMALE,1,4,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,4,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,4,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,4,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,4,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,4,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,4,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,4,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,4,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,4,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,4,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,4,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,4,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,4,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,4,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,4,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,4,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,4,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,4,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,4,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,4,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,4,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,4,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,4,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,4,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,4,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,4,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,4,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,4,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,4,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,4,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,4,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,4,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,4,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,4,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,4,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,4,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,4,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,4,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,4,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,4,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,4,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,4,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,4,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,4,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,4,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,4,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,4,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,4,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,4,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,4,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,4,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,4,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,4,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,4,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,4,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,4,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,4,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,4,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,4,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,4,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,4,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,4,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,4,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,4,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,4,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,4,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,4,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,4,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,4,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,4,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,4,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,4,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,4,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,4,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,4,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,4,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,4,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,4,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,4,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,4,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,4,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,4,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,4,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,4,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,4,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,4,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,4,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,4,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,4,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,4,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,4,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,4,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,4,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,4,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,4,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,4,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,4,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,4,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,4,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,4,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,4,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,4,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,4,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,4,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,4,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,4,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,4,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,4,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,4,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,4,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,4,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,4,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,4,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,4,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,4,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,4,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,4,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,4,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,4,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,4,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,4,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,4,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,4,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,4,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,4,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,4,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,4,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,4,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,4,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,4,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,4,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,4,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,4,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,4,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,4,CDMPv535_ABMI
+6003,age group:  30 -  34,3,5,CDMPv535_ABMI
+3003,age group:  15 -  19,3,5,CDMPv535_ABMI
+9003,age group:  45 -  49,3,5,CDMPv535_ABMI
+4003,age group:  20 -  24,3,5,CDMPv535_ABMI
+12003,age group:  60 -  64,3,5,CDMPv535_ABMI
+15003,age group:  75 -  79,3,5,CDMPv535_ABMI
+7003,age group:  35 -  39,3,5,CDMPv535_ABMI
+10003,age group:  50 -  54,3,5,CDMPv535_ABMI
+13003,age group:  65 -  69,3,5,CDMPv535_ABMI
+5003,age group:  25 -  29,3,5,CDMPv535_ABMI
+11003,age group:  55 -  59,3,5,CDMPv535_ABMI
+8003,age group:  40 -  44,3,5,CDMPv535_ABMI
+14003,age group:  70 -  74,3,5,CDMPv535_ABMI
+8532001,gender = FEMALE,1,5,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,5,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,5,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,5,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,5,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,5,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,5,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,5,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,5,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,5,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,5,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,5,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,5,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,5,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,5,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,5,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,5,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,5,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,5,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,5,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,5,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,5,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,5,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,5,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,5,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,5,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,5,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,5,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,5,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,5,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,5,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,5,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,5,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,5,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,5,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,5,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,5,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,5,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,5,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,5,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,5,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,5,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,5,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,5,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,5,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,5,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,5,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,5,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,5,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,5,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,5,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,5,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,5,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,5,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,5,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,5,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,5,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,5,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,5,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,5,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,5,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,5,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,5,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,5,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,5,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,5,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,5,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,5,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,5,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,5,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,5,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,5,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,5,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,5,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,5,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,5,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,5,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,5,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,5,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,5,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,5,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,5,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,5,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,5,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,5,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,5,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,5,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,5,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,5,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,5,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,5,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,5,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,5,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,5,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,5,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,5,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,5,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,5,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,5,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,5,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,5,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,5,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,5,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,5,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,5,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,5,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,5,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,5,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,5,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,5,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,5,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,5,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,5,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,5,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,5,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,5,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,5,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,5,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,5,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,5,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,5,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,5,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,5,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,5,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,5,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,5,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,5,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,5,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,5,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,5,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,5,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,5,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,5,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,5,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,5,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,5,CDMPv535_ABMI
+6003,age group:  30 -  34,3,6,CDMPv535_ABMI
+3003,age group:  15 -  19,3,6,CDMPv535_ABMI
+9003,age group:  45 -  49,3,6,CDMPv535_ABMI
+4003,age group:  20 -  24,3,6,CDMPv535_ABMI
+12003,age group:  60 -  64,3,6,CDMPv535_ABMI
+15003,age group:  75 -  79,3,6,CDMPv535_ABMI
+7003,age group:  35 -  39,3,6,CDMPv535_ABMI
+10003,age group:  50 -  54,3,6,CDMPv535_ABMI
+13003,age group:  65 -  69,3,6,CDMPv535_ABMI
+5003,age group:  25 -  29,3,6,CDMPv535_ABMI
+11003,age group:  55 -  59,3,6,CDMPv535_ABMI
+8003,age group:  40 -  44,3,6,CDMPv535_ABMI
+14003,age group:  70 -  74,3,6,CDMPv535_ABMI
+8532001,gender = FEMALE,1,6,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,6,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,6,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,6,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,6,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,6,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,6,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,6,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,6,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,6,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,6,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,6,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,6,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,6,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,6,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,6,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,6,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,6,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,6,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,6,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,6,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,6,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,6,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,6,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,6,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,6,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,6,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,6,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,6,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,6,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,6,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,6,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,6,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,6,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,6,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,6,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,6,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,6,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,6,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,6,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,6,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,6,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,6,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,6,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,6,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,6,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,6,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,6,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,6,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,6,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,6,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,6,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,6,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,6,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,6,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,6,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,6,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,6,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,6,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,6,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,6,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,6,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,6,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,6,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,6,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,6,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,6,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,6,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,6,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,6,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,6,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,6,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,6,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,6,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,6,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,6,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,6,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,6,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,6,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,6,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,6,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,6,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,6,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,6,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,6,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,6,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,6,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,6,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,6,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,6,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,6,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,6,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,6,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,6,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,6,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,6,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,6,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,6,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,6,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,6,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,6,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,6,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,6,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,6,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,6,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,6,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,6,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,6,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,6,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,6,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,6,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,6,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,6,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,6,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,6,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,6,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,6,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,6,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,6,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,6,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,6,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,6,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,6,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,6,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,6,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,6,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,6,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,6,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,6,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,6,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,6,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,6,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,6,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,6,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,6,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,6,CDMPv535_ABMI
+6003,age group:  30 -  34,3,7,CDMPv535_ABMI
+3003,age group:  15 -  19,3,7,CDMPv535_ABMI
+9003,age group:  45 -  49,3,7,CDMPv535_ABMI
+4003,age group:  20 -  24,3,7,CDMPv535_ABMI
+12003,age group:  60 -  64,3,7,CDMPv535_ABMI
+15003,age group:  75 -  79,3,7,CDMPv535_ABMI
+7003,age group:  35 -  39,3,7,CDMPv535_ABMI
+10003,age group:  50 -  54,3,7,CDMPv535_ABMI
+13003,age group:  65 -  69,3,7,CDMPv535_ABMI
+5003,age group:  25 -  29,3,7,CDMPv535_ABMI
+11003,age group:  55 -  59,3,7,CDMPv535_ABMI
+8003,age group:  40 -  44,3,7,CDMPv535_ABMI
+14003,age group:  70 -  74,3,7,CDMPv535_ABMI
+8532001,gender = FEMALE,1,7,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,7,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,7,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,7,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,7,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,7,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,7,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,7,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,7,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,7,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,7,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,7,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,7,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,7,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,7,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,7,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,7,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,7,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,7,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,7,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,7,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,7,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,7,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,7,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,7,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,7,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,7,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,7,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,7,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,7,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,7,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,7,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,7,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,7,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,7,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,7,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,7,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,7,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,7,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,7,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,7,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,7,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,7,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,7,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,7,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,7,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,7,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,7,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,7,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,7,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,7,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,7,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,7,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,7,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,7,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,7,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,7,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,7,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,7,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,7,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,7,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,7,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,7,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,7,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,7,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,7,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,7,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,7,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,7,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,7,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,7,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,7,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,7,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,7,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,7,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,7,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,7,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,7,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,7,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,7,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,7,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,7,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,7,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,7,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,7,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,7,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,7,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,7,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,7,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,7,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,7,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,7,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,7,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,7,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,7,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,7,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,7,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,7,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,7,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,7,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,7,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,7,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,7,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,7,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,7,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,7,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,7,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,7,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,7,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,7,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,7,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,7,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,7,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,7,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,7,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,7,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,7,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,7,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,7,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,7,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,7,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,7,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,7,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,7,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,7,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,7,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,7,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,7,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,7,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,7,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,7,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,7,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,7,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,7,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,7,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,7,CDMPv535_ABMI
+6003,age group:  30 -  34,3,8,CDMPv535_ABMI
+3003,age group:  15 -  19,3,8,CDMPv535_ABMI
+9003,age group:  45 -  49,3,8,CDMPv535_ABMI
+4003,age group:  20 -  24,3,8,CDMPv535_ABMI
+12003,age group:  60 -  64,3,8,CDMPv535_ABMI
+15003,age group:  75 -  79,3,8,CDMPv535_ABMI
+7003,age group:  35 -  39,3,8,CDMPv535_ABMI
+10003,age group:  50 -  54,3,8,CDMPv535_ABMI
+13003,age group:  65 -  69,3,8,CDMPv535_ABMI
+5003,age group:  25 -  29,3,8,CDMPv535_ABMI
+11003,age group:  55 -  59,3,8,CDMPv535_ABMI
+8003,age group:  40 -  44,3,8,CDMPv535_ABMI
+14003,age group:  70 -  74,3,8,CDMPv535_ABMI
+8532001,gender = FEMALE,1,8,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,8,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,8,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,8,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,8,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,8,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,8,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,8,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,8,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,8,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,8,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,8,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,8,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,8,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,8,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,8,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,8,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,8,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,8,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,8,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,8,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,8,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,8,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,8,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,8,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,8,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,8,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,8,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,8,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,8,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,8,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,8,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,8,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,8,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,8,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,8,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,8,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,8,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,8,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,8,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,8,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,8,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,8,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,8,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,8,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,8,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,8,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,8,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,8,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,8,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,8,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,8,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,8,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,8,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,8,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,8,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,8,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,8,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,8,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,8,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,8,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,8,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,8,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,8,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,8,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,8,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,8,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,8,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,8,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,8,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,8,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,8,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,8,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,8,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,8,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,8,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,8,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,8,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,8,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,8,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,8,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,8,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,8,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,8,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,8,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,8,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,8,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,8,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,8,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,8,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,8,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,8,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,8,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,8,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,8,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,8,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,8,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,8,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,8,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,8,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,8,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,8,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,8,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,8,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,8,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,8,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,8,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,8,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,8,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,8,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,8,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,8,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,8,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,8,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,8,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,8,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,8,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,8,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,8,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,8,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,8,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,8,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,8,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,8,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,8,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,8,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,8,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,8,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,8,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,8,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,8,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,8,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,8,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,8,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,8,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,8,CDMPv535_ABMI
+6003,age group:  30 -  34,3,9,CDMPv535_ABMI
+3003,age group:  15 -  19,3,9,CDMPv535_ABMI
+9003,age group:  45 -  49,3,9,CDMPv535_ABMI
+4003,age group:  20 -  24,3,9,CDMPv535_ABMI
+12003,age group:  60 -  64,3,9,CDMPv535_ABMI
+15003,age group:  75 -  79,3,9,CDMPv535_ABMI
+7003,age group:  35 -  39,3,9,CDMPv535_ABMI
+10003,age group:  50 -  54,3,9,CDMPv535_ABMI
+13003,age group:  65 -  69,3,9,CDMPv535_ABMI
+5003,age group:  25 -  29,3,9,CDMPv535_ABMI
+11003,age group:  55 -  59,3,9,CDMPv535_ABMI
+8003,age group:  40 -  44,3,9,CDMPv535_ABMI
+14003,age group:  70 -  74,3,9,CDMPv535_ABMI
+8532001,gender = FEMALE,1,9,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,9,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,9,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,9,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,9,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,9,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,9,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,9,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,9,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,9,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,9,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,9,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,9,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,9,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,9,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,9,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,9,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,9,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,9,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,9,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,9,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,9,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,9,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,9,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,9,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,9,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,9,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,9,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,9,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,9,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,9,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,9,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,9,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,9,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,9,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,9,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,9,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,9,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,9,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,9,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,9,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,9,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,9,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,9,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,9,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,9,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,9,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,9,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,9,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,9,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,9,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,9,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,9,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,9,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,9,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,9,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,9,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,9,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,9,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,9,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,9,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,9,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,9,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,9,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,9,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,9,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,9,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,9,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,9,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,9,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,9,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,9,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,9,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,9,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,9,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,9,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,9,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,9,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,9,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,9,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,9,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,9,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,9,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,9,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,9,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,9,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,9,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,9,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,9,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,9,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,9,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,9,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,9,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,9,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,9,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,9,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,9,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,9,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,9,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,9,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,9,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,9,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,9,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,9,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,9,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,9,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,9,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,9,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,9,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,9,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,9,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,9,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,9,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,9,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,9,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,9,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,9,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,9,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,9,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,9,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,9,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,9,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,9,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,9,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,9,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,9,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,9,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,9,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,9,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,9,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,9,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,9,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,9,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,9,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,9,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,9,CDMPv535_ABMI
+6003,age group:  30 -  34,3,10,CDMPv535_ABMI
+3003,age group:  15 -  19,3,10,CDMPv535_ABMI
+9003,age group:  45 -  49,3,10,CDMPv535_ABMI
+4003,age group:  20 -  24,3,10,CDMPv535_ABMI
+12003,age group:  60 -  64,3,10,CDMPv535_ABMI
+15003,age group:  75 -  79,3,10,CDMPv535_ABMI
+7003,age group:  35 -  39,3,10,CDMPv535_ABMI
+10003,age group:  50 -  54,3,10,CDMPv535_ABMI
+13003,age group:  65 -  69,3,10,CDMPv535_ABMI
+5003,age group:  25 -  29,3,10,CDMPv535_ABMI
+11003,age group:  55 -  59,3,10,CDMPv535_ABMI
+8003,age group:  40 -  44,3,10,CDMPv535_ABMI
+14003,age group:  70 -  74,3,10,CDMPv535_ABMI
+8532001,gender = FEMALE,1,10,CDMPv535_ABMI
+256722210,condition_era group during day -365 through 0 days relative to index: Bronchopneumonia,210,10,CDMPv535_ABMI
+4163270210,condition_era group during day -365 through 0 days relative to index: Seronegative arthritis,210,10,CDMPv535_ABMI
+196463210,condition_era group during day -365 through 0 days relative to index: Alcoholic cirrhosis,210,10,CDMPv535_ABMI
+4002134210,condition_era group during day -365 through 0 days relative to index: Osteoporosis in endocrine disorders,210,10,CDMPv535_ABMI
+198185210,condition_era group during day -365 through 0 days relative to index: Chronic renal failure,210,10,CDMPv535_ABMI
+4143008210,condition_era group during day -365 through 0 days relative to index: Drug-induced cirrhosis of liver,210,10,CDMPv535_ABMI
+42596380210,condition_era group during day -365 through 0 days relative to index: Allergic dermatitis,210,10,CDMPv535_ABMI
+261326210,condition_era group during day -365 through 0 days relative to index: Viral pneumonia,210,10,CDMPv535_ABMI
+4049964210,condition_era group during day -365 through 0 days relative to index: Acute bacterial bronchitis,210,10,CDMPv535_ABMI
+319826210,condition_era group during day -365 through 0 days relative to index: Secondary hypertension,210,10,CDMPv535_ABMI
+76196210,condition_era group during day -365 through 0 days relative to index: Palindromic rheumatism,210,10,CDMPv535_ABMI
+4049417210,condition_era group during day -365 through 0 days relative to index: Vesicular eczema,210,10,CDMPv535_ABMI
+380111210,condition_era group during day -365 through 0 days relative to index: Acute atopic conjunctivitis,210,10,CDMPv535_ABMI
+443611210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 5,210,10,CDMPv535_ABMI
+4247138210,condition_era group during day -365 through 0 days relative to index: Chronic persistent viral hepatitis,210,10,CDMPv535_ABMI
+4117686210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis of multiple joints,210,10,CDMPv535_ABMI
+4212540210,condition_era group during day -365 through 0 days relative to index: Chronic liver disease,210,10,CDMPv535_ABMI
+4311246210,condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension in obstetric context,210,10,CDMPv535_ABMI
+4030520210,condition_era group during day -365 through 0 days relative to index: End stage renal failure on dialysis,210,10,CDMPv535_ABMI
+4273378210,condition_era group during day -365 through 0 days relative to index: Interstitial pneumonia,210,10,CDMPv535_ABMI
+74728210,condition_era group during day -365 through 0 days relative to index: Synovitis and tenosynovitis,210,10,CDMPv535_ABMI
+4035611210,condition_era group during day -365 through 0 days relative to index: Seropositive rheumatoid arthritis,210,10,CDMPv535_ABMI
+320128210,condition_era group during day -365 through 0 days relative to index: Essential hypertension,210,10,CDMPv535_ABMI
+443919210,condition_era group during day -365 through 0 days relative to index: Hypertensive renal failure,210,10,CDMPv535_ABMI
+318800210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease,210,10,CDMPv535_ABMI
+257007210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis,210,10,CDMPv535_ABMI
+432867210,condition_era group during day -365 through 0 days relative to index: Hyperlipidemia,210,10,CDMPv535_ABMI
+4112826210,condition_era group during day -365 through 0 days relative to index: Mixed simple and mucopurulent chronic bronchitis,210,10,CDMPv535_ABMI
+437827210,condition_era group during day -365 through 0 days relative to index: Pure hypercholesterolemia,210,10,CDMPv535_ABMI
+40490497210,condition_era group during day -365 through 0 days relative to index: Arthritis of hand,210,10,CDMPv535_ABMI
+4262443210,condition_era group during day -365 through 0 days relative to index: Chronic arthritis,210,10,CDMPv535_ABMI
+4083556210,condition_era group during day -365 through 0 days relative to index: Seronegative rheumatoid arthritis,210,10,CDMPv535_ABMI
+4296554210,condition_era group during day -365 through 0 days relative to index: Chronic persistent type B viral hepatitis,210,10,CDMPv535_ABMI
+199867210,condition_era group during day -365 through 0 days relative to index: Chronic persistent hepatitis,210,10,CDMPv535_ABMI
+257315210,condition_era group during day -365 through 0 days relative to index: Bacterial pneumonia,210,10,CDMPv535_ABMI
+37116366210,condition_era group during day -365 through 0 days relative to index: Pneumonia caused by Gram positive bacteria,210,10,CDMPv535_ABMI
+4024659210,condition_era group during day -365 through 0 days relative to index: Gestational diabetes mellitus,210,10,CDMPv535_ABMI
+43531578210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease due to type 2 diabetes mellitus,210,10,CDMPv535_ABMI
+4144111210,condition_era group during day -365 through 0 days relative to index: Gastroesophageal reflux disease without esophagitis,210,10,CDMPv535_ABMI
+43020424210,condition_era group during day -365 through 0 days relative to index: Hypertensive emergency,210,10,CDMPv535_ABMI
+200451210,condition_era group during day -365 through 0 days relative to index: Chronic passive congestion of liver,210,10,CDMPv535_ABMI
+81390210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis,210,10,CDMPv535_ABMI
+4008576210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus without complication,210,10,CDMPv535_ABMI
+45768449210,condition_era group during day -365 through 0 days relative to index: Hypertensive crisis,210,10,CDMPv535_ABMI
+255848210,condition_era group during day -365 through 0 days relative to index: Pneumonia,210,10,CDMPv535_ABMI
+4335888210,condition_era group during day -365 through 0 days relative to index: Atopic conjunctivitis,210,10,CDMPv535_ABMI
+4291025210,condition_era group during day -365 through 0 days relative to index: Arthritis,210,10,CDMPv535_ABMI
+201820210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus,210,10,CDMPv535_ABMI
+45763750210,condition_era group during day -365 through 0 days relative to index: Idiopathic pulmonary fibrosis,210,10,CDMPv535_ABMI
+256723210,condition_era group during day -365 through 0 days relative to index: Pneumonia and influenza,210,10,CDMPv535_ABMI
+4051332210,condition_era group during day -365 through 0 days relative to index: Acute mycoplasmal bronchitis,210,10,CDMPv535_ABMI
+4320791210,condition_era group during day -365 through 0 days relative to index: Rhinitis,210,10,CDMPv535_ABMI
+4262590210,condition_era group during day -365 through 0 days relative to index: Infective arthritis,210,10,CDMPv535_ABMI
+438720210,condition_era group during day -365 through 0 days relative to index: Mixed hyperlipidemia,210,10,CDMPv535_ABMI
+192359210,condition_era group during day -365 through 0 days relative to index: Renal failure syndrome,210,10,CDMPv535_ABMI
+198964210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis C,210,10,CDMPv535_ABMI
+4035431210,condition_era group during day -365 through 0 days relative to index: Shoulder synovitis,210,10,CDMPv535_ABMI
+4009619210,condition_era group during day -365 through 0 days relative to index: Bursitis of knee,210,10,CDMPv535_ABMI
+4012113210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis,210,10,CDMPv535_ABMI
+4028741210,condition_era group during day -365 through 0 days relative to index: Benign hypertension,210,10,CDMPv535_ABMI
+45763749210,condition_era group during day -365 through 0 days relative to index: Idiopathic interstitial pneumonia,210,10,CDMPv535_ABMI
+200763210,condition_era group during day -365 through 0 days relative to index: Chronic hepatitis,210,10,CDMPv535_ABMI
+4173335210,condition_era group during day -365 through 0 days relative to index: Primary osteoporosis,210,10,CDMPv535_ABMI
+42573218210,condition_era group during day -365 through 0 days relative to index: Mycoplasmal pneumonia,210,10,CDMPv535_ABMI
+443412210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus without complication,210,10,CDMPv535_ABMI
+4067768210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis with pathological fracture,210,10,CDMPv535_ABMI
+201826210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus,210,10,CDMPv535_ABMI
+80809210,condition_era group during day -365 through 0 days relative to index: Rheumatoid arthritis,210,10,CDMPv535_ABMI
+261324210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Streptococcus,210,10,CDMPv535_ABMI
+44783158210,condition_era group during day -365 through 0 days relative to index: Arthritis of pelvis,210,10,CDMPv535_ABMI
+765431210,condition_era group during day -365 through 0 days relative to index: Eosinophilic bronchitis,210,10,CDMPv535_ABMI
+81379210,condition_era group during day -365 through 0 days relative to index: Lateral epicondylitis,210,10,CDMPv535_ABMI
+4029305210,condition_era group during day -365 through 0 days relative to index: Hypercholesterolemia,210,10,CDMPv535_ABMI
+4280726210,condition_era group during day -365 through 0 days relative to index: Seasonal allergic rhinitis,210,10,CDMPv535_ABMI
+194574210,condition_era group during day -365 through 0 days relative to index: Chronic type B viral hepatitis,210,10,CDMPv535_ABMI
+4289933210,condition_era group during day -365 through 0 days relative to index: Malignant hypertension,210,10,CDMPv535_ABMI
+40483262210,condition_era group during day -365 through 0 days relative to index: Arthritis of shoulder region joint,210,10,CDMPv535_ABMI
+80502210,condition_era group during day -365 through 0 days relative to index: Osteoporosis,210,10,CDMPv535_ABMI
+192240210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis B with hepatitis D,210,10,CDMPv535_ABMI
+258180210,condition_era group during day -365 through 0 days relative to index: Pneumonia due to Gram negative bacteria,210,10,CDMPv535_ABMI
+4208807210,condition_era group during day -365 through 0 days relative to index: Acute infective bronchitis,210,10,CDMPv535_ABMI
+193782210,condition_era group during day -365 through 0 days relative to index: End-stage renal disease,210,10,CDMPv535_ABMI
+80824210,condition_era group during day -365 through 0 days relative to index: Senile osteoporosis,210,10,CDMPv535_ABMI
+133834210,condition_era group during day -365 through 0 days relative to index: Atopic dermatitis,210,10,CDMPv535_ABMI
+4167493210,condition_era group during day -365 through 0 days relative to index: Pregnancy-induced hypertension,210,10,CDMPv535_ABMI
+443601210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease stage 2,210,10,CDMPv535_ABMI
+4168183210,condition_era group during day -365 through 0 days relative to index: Synovitis,210,10,CDMPv535_ABMI
+4118007210,condition_era group during day -365 through 0 days relative to index: Synovitis/tenosynovitis - shoulder,210,10,CDMPv535_ABMI
+260139210,condition_era group during day -365 through 0 days relative to index: Acute bronchitis,210,10,CDMPv535_ABMI
+4253901210,condition_era group during day -365 through 0 days relative to index: Juvenile rheumatoid arthritis,210,10,CDMPv535_ABMI
+4025165210,condition_era group during day -365 through 0 days relative to index: Abscess of lung with pneumonia,210,10,CDMPv535_ABMI
+201254210,condition_era group during day -365 through 0 days relative to index: Type 1 diabetes mellitus,210,10,CDMPv535_ABMI
+37205058210,condition_era group during day -365 through 0 days relative to index: Spondyloarthritis,210,10,CDMPv535_ABMI
+45767051210,condition_era group during day -365 through 0 days relative to index: Chronic interstitial pneumonia,210,10,CDMPv535_ABMI
+4126305210,condition_era group during day -365 through 0 days relative to index: Acute renal impairment,210,10,CDMPv535_ABMI
+316866210,condition_era group during day -365 through 0 days relative to index: Hypertensive disorder,210,10,CDMPv535_ABMI
+4205509210,condition_era group during day -365 through 0 days relative to index: Arthritis of elbow,210,10,CDMPv535_ABMI
+259848210,condition_era group during day -365 through 0 days relative to index: Chronic rhinitis,210,10,CDMPv535_ABMI
+4279525210,condition_era group during day -365 through 0 days relative to index: Hypertension in the obstetric context,210,10,CDMPv535_ABMI
+443410210,condition_era group during day -365 through 0 days relative to index: Infective pneumonia,210,10,CDMPv535_ABMI
+440431210,condition_era group during day -365 through 0 days relative to index: Mycoplasma pneumonia,210,10,CDMPv535_ABMI
+80482210,condition_era group during day -365 through 0 days relative to index: Suppurative arthritis,210,10,CDMPv535_ABMI
+74125210,condition_era group during day -365 through 0 days relative to index: Inflammatory polyarthropathy,210,10,CDMPv535_ABMI
+40481620210,condition_era group during day -365 through 0 days relative to index: Infective arthritis of ankle and/or foot,210,10,CDMPv535_ABMI
+43021807210,condition_era group during day -365 through 0 days relative to index: Allergic conjunctivitis,210,10,CDMPv535_ABMI
+42536529210,condition_era group during day -365 through 0 days relative to index: Chronic viral hepatitis D,210,10,CDMPv535_ABMI
+197320210,condition_era group during day -365 through 0 days relative to index: Acute renal failure syndrome,210,10,CDMPv535_ABMI
+4033089210,condition_era group during day -365 through 0 days relative to index: Drug-induced osteoporosis,210,10,CDMPv535_ABMI
+78829210,condition_era group during day -365 through 0 days relative to index: Pyogenic arthritis of the ankle and/or foot,210,10,CDMPv535_ABMI
+46271022210,condition_era group during day -365 through 0 days relative to index: Chronic kidney disease,210,10,CDMPv535_ABMI
+4069306210,condition_era group during day -365 through 0 days relative to index: Idiopathic osteoporosis with pathological fracture,210,10,CDMPv535_ABMI
+44793113210,condition_era group during day -365 through 0 days relative to index: Diabetes mellitus with multiple complications,210,10,CDMPv535_ABMI
+4058243210,"condition_era group during day -365 through 0 days relative to index: Diabetes mellitus during pregnancy, childbirth and the puerperium",210,10,CDMPv535_ABMI
+197329210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to acute cortical necrosis,210,10,CDMPv535_ABMI
+255841210,condition_era group during day -365 through 0 days relative to index: Chronic bronchitis,210,10,CDMPv535_ABMI
+433736210,condition_era group during day -365 through 0 days relative to index: Obesity,210,10,CDMPv535_ABMI
+4010333210,condition_era group during day -365 through 0 days relative to index: Postmenopausal osteoporosis,210,10,CDMPv535_ABMI
+258785210,condition_era group during day -365 through 0 days relative to index: Pneumococcal pneumonia,210,10,CDMPv535_ABMI
+45757466210,condition_era group during day -365 through 0 days relative to index: Acute renal failure due to tubular necrosis,210,10,CDMPv535_ABMI
+4193704210,condition_era group during day -365 through 0 days relative to index: Type 2 diabetes mellitus without complication,210,10,CDMPv535_ABMI
+46269693210,condition_era group during day -365 through 0 days relative to index: Chronic pneumonia,210,10,CDMPv535_ABMI
+45769906210,condition_era group during day -365 through 0 days relative to index: End stage renal disease on dialysis due to type 2 diabetes mellitus,210,10,CDMPv535_ABMI
+4208390210,condition_era group during day -365 through 0 days relative to index: Inflammation of sacroiliac joint,210,10,CDMPv535_ABMI
+36716891210,condition_era group during day -365 through 0 days relative to index: Axial spondyloarthritis,210,10,CDMPv535_ABMI
+4094283210,condition_era group during day -365 through 0 days relative to index: Lower limb joint arthritis,210,10,CDMPv535_ABMI
+437082210,condition_era group during day -365 through 0 days relative to index: Ankylosing spondylitis,210,10,CDMPv535_ABMI
+321074210,"condition_era group during day -365 through 0 days relative to index: Pre-existing hypertension complicating pregnancy, childbirth and puerperium",210,10,CDMPv535_ABMI
+4118910210,condition_era group during day -365 through 0 days relative to index: Maternal hypertension,210,10,CDMPv535_ABMI
+4309350210,condition_era group during day -365 through 0 days relative to index: Fetid chronic bronchitis,210,10,CDMPv535_ABMI
+4153359210,condition_era group during day -365 through 0 days relative to index: Arthritis of spine,210,10,CDMPv535_ABMI
+4030518210,condition_era group during day -365 through 0 days relative to index: Renal impairment,210,10,CDMPv535_ABMI
+256451210,condition_era group during day -365 through 0 days relative to index: Bronchitis,210,10,CDMPv535_ABMI
+256439210,condition_era group during day -365 through 0 days relative to index: Allergic rhinitis due to pollen,210,10,CDMPv535_ABMI
+4064161210,condition_era group during day -365 through 0 days relative to index: Cirrhosis of liver,210,10,CDMPv535_ABMI
+45766159210,condition_era group during day -365 through 0 days relative to index: Secondary osteoporosis,210,10,CDMPv535_ABMI

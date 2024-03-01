@@ -1,0 +1,98 @@
+"cohortDefinitionId","cohortName","cohortCount","personCount"
+3606,"[PCH] target cohort ver2 - OMZ",134,134
+3610,"[PCH] comparator cohort ver2 (30) - OMZ",1840,1840
+4018,"[PCH] incompletely controlled asthma (clinical final)",2874978,755396
+4019,"[PCH] incompletely controlled asthma (inflammatory final)",2819725,745941
+73008,"Enthesopathy",76834,5654
+73560,"Calcaneal spur",3,3
+74855,"Genital herpes simplex",3622,552
+75354,"Osteochondropathy",1787,399
+75576,"Irritable bowel syndrome",72283,12639
+75911,"Acquired hallux valgus",6766,1118
+76786,"Derangement of knee",27078,6208
+77650,"Aseptic necrosis of bone",1542,360
+78619,"Contusion of knee",13975,6660
+81151,"Sprain of ankle",10328,3750
+81378,"Chondromalacia of patella",331,115
+81893,"Ulcerative colitis",37738,1924
+134438,"Contact dermatitis",86012,16639
+134461,"Tietze's disease",2996,1523
+136368,"Non-toxic multinodular goiter",68516,14815
+137951,"Acquired keratoderma",1251,261
+139099,"Ingrowing nail",5952,1366
+140480,"Impetigo",17224,2408
+140641,"Verruca vulgaris",75522,12048
+140648,"Onychomycosis due to dermatophyte",37927,5848
+140842,"Changes in skin texture",127,60
+192606,"Paraplegia",17389,1546
+196168,"Irregular periods",10178,2835
+196236,"Septic shock",9429,3086
+196456,"Gallstone",122053,25609
+200775,"Endometrial hyperplasia",10422,1981
+201606,"Crohn's disease",35725,1563
+253954,"Pulmonary tuberculosis",51058,8191
+254443,"Sjogren's syndrome",24969,1027
+260134,"Croup",23768,9359
+373478,"Presbyopia",2829,869
+374375,"Impacted cerumen",2602,838
+374923,"Bell's palsy",23534,6552
+376707,"Acute conjunctivitis",99654,14243
+377572,"Noise effects on inner ear",697,280
+378424,"Astigmatism",17281,4205
+378427,"Tear film insufficiency",52499,8342
+380038,"Viral conjunctivitis",5012,2070
+380688,"Hypoglycemic coma",357,107
+380706,"Regular astigmatism",3525,934
+381581,"Chalazion",6460,2227
+432593,"Kwashiorkor",4,3
+432595,"Amyloidosis",2141,289
+433111,"Effects of hunger",34,7
+433527,"Endometriosis",122176,19073
+433577,"Hammer toe",158,38
+434327,"Cannabis abuse",3,3
+434926,"Iridocyclitis",29847,2416
+436634,"Acariasis",6052,1649
+437082,"Ankylosing spondylitis",58163,2337
+438130,"Opioid abuse",50,5
+438329,"Late effect of motor vehicle accident",497,342
+438531,"Chondromalacia",1083,203
+438688,"Sarcoidosis",3650,303
+440329,"Herpes zoster without complication",74357,12485
+440638,"Lyme disease",25,11
+441589,"Endocarditis",12321,1036
+441788,"Human papilloma virus infection",75596,12089
+441818,"Hemangioma",33595,9195
+443285,"Lesion of cervix",231441,25880
+443767,"Disorder of eye due to diabetes mellitus",243889,12905
+444132,"Injury of knee",47996,14418
+4012570,"High risk sexual behavior",12,1
+4030042,"Toxic goiter",129098,10118
+4038835,"Hodgkin's disease",6950,221
+4050747,"Fracture of upper limb",207761,30321
+4087647,"Rectal mass",181256,10173
+4088290,"Absence of breast",520,175
+4091513,"Passing flatus",1144,343
+4092879,"Absent kidney",909,310
+4103703,"Melena",9961,2807
+4110709,"Benign epithelial neoplasm of skin",21763,5749
+4112731,"Polyp of intestine",51878,17010
+4134455,"Mononeuropathy",40532,7210
+4156115,"Malignant neoplasm of endocrine gland",352303,22370
+4166231,"Genetic predisposition",338368,39993
+4169984,"Scar",43095,8241
+4170770,"Epidermoid cyst",41161,10536
+4201390,"Colostomy present",1238,321
+4201717,"Ileostomy present",1412,337
+4202045,"Postviral fatigue syndrome",1109,220
+4209423,"Nicotine dependence",649,167
+4215978,"Onychomycosis",37927,5848
+4231770,"Hereditary thrombophilia",956,78
+4234533,"Tonsillitis",167736,42807
+4248870,"Visceroptosis",11180,2646
+4249170,"Epicondylitis",12799,2199
+4254542,"Hypopituitarism",45537,2846
+4291005,"Viral hepatitis",303250,30113
+4344500,"Impingement syndrome of shoulder region",10502,1520
+4345472,"Epstein-Barr virus disease",394,116
+40481632,"Ganglion cyst",8923,2567
+46286594,"Problem related to lifestyle",211,55

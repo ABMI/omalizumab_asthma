@@ -1,0 +1,117 @@
+"database_id","exposure_id","target_id","comparator_id","outcome_id","analysis_id","sequence_number","description","subjects"
+"CDMPv535_ABMI",3606,3606,3610,4018,1,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,1,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4018,1,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4018,1,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,1,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,1,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4019,1,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,1,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4019,1,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4019,1,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,1,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,1,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4018,2,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,2,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4018,2,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4018,2,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,2,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,2,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4019,2,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,2,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4019,2,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4019,2,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,2,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,2,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4018,3,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,3,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4018,3,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4018,3,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,3,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,3,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4019,3,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,3,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4019,3,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4019,3,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,3,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,3,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4018,4,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,4,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4018,4,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4018,4,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,4,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,4,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4019,4,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,4,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4019,4,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4019,4,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,4,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,4,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4018,5,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,5,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4018,5,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4018,5,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,5,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,5,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4019,5,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,5,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4019,5,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4019,5,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,5,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,5,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4018,6,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,6,2,"Have at least 1 days at risk",121
+"CDMPv535_ABMI",3606,3606,3610,4018,6,3,"Matched on propensity score",107
+"CDMPv535_ABMI",3610,3606,3610,4018,6,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,6,2,"Have at least 1 days at risk",641
+"CDMPv535_ABMI",3610,3606,3610,4018,6,3,"Matched on propensity score",107
+"CDMPv535_ABMI",3606,3606,3610,4019,6,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,6,2,"Have at least 1 days at risk",121
+"CDMPv535_ABMI",3606,3606,3610,4019,6,3,"Matched on propensity score",107
+"CDMPv535_ABMI",3610,3606,3610,4019,6,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,6,2,"Have at least 1 days at risk",641
+"CDMPv535_ABMI",3610,3606,3610,4019,6,3,"Matched on propensity score",107
+"CDMPv535_ABMI",3606,3606,3610,4018,7,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,7,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4018,7,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4018,7,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,7,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,7,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4019,7,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,7,2,"Have at least 1 days at risk",134
+"CDMPv535_ABMI",3606,3606,3610,4019,7,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3610,3606,3610,4019,7,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,7,2,"Have at least 1 days at risk",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,7,3,"Matched on propensity score",132
+"CDMPv535_ABMI",3606,3606,3610,4018,8,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,8,2,"Have at least 1 days at risk",121
+"CDMPv535_ABMI",3606,3606,3610,4018,8,3,"Matched on propensity score",107
+"CDMPv535_ABMI",3610,3606,3610,4018,8,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,8,2,"Have at least 1 days at risk",641
+"CDMPv535_ABMI",3610,3606,3610,4018,8,3,"Matched on propensity score",181
+"CDMPv535_ABMI",3606,3606,3610,4019,8,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,8,2,"Have at least 1 days at risk",121
+"CDMPv535_ABMI",3606,3606,3610,4019,8,3,"Matched on propensity score",107
+"CDMPv535_ABMI",3610,3606,3610,4019,8,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,8,2,"Have at least 1 days at risk",641
+"CDMPv535_ABMI",3610,3606,3610,4019,8,3,"Matched on propensity score",181
+"CDMPv535_ABMI",3606,3606,3610,4018,9,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,9,2,"Have at least 1 days at risk",121
+"CDMPv535_ABMI",3606,3606,3610,4018,9,3,"Matched on propensity score",107
+"CDMPv535_ABMI",3610,3606,3610,4018,9,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,9,2,"Have at least 1 days at risk",641
+"CDMPv535_ABMI",3610,3606,3610,4018,9,3,"Matched on propensity score",306
+"CDMPv535_ABMI",3606,3606,3610,4019,9,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,9,2,"Have at least 1 days at risk",121
+"CDMPv535_ABMI",3606,3606,3610,4019,9,3,"Matched on propensity score",107
+"CDMPv535_ABMI",3610,3606,3610,4019,9,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,9,2,"Have at least 1 days at risk",641
+"CDMPv535_ABMI",3610,3606,3610,4019,9,3,"Matched on propensity score",306
+"CDMPv535_ABMI",3606,3606,3610,4018,10,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4018,10,2,"Have at least 1 days at risk",121
+"CDMPv535_ABMI",3610,3606,3610,4018,10,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4018,10,2,"Have at least 1 days at risk",641
+"CDMPv535_ABMI",3606,3606,3610,4019,10,1,"Original cohorts",134
+"CDMPv535_ABMI",3606,3606,3610,4019,10,2,"Have at least 1 days at risk",121
+"CDMPv535_ABMI",3610,3606,3610,4019,10,1,"Original cohorts",1840
+"CDMPv535_ABMI",3610,3606,3610,4019,10,2,"Have at least 1 days at risk",641
